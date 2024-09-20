@@ -16,15 +16,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
-      <h2>Youtube</h2>
-      <h2>Login Feature</h2>
-
-      <ul>
-        <li>밥먹기</li>
-        <li>청소하기</li>
-        <li>잠자기</li>
-      </ul>
+      <h2>AWS 작업 후 S3/CloudFront/인증서/IAM 싹 다 지움</h2>
+      <h2>.github폴더의 인프라 볼 수 있음!!!</h2>
 
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
